@@ -70,7 +70,12 @@ This document lists the high level points that will be covered in the DSI bootca
 This is language agnostic. The prompt works for R and Python. We give examples in both languages.
 The goal of this part is to open the world to how a data scientist operates and thinks.
 
-1. reading in data
-2. munging data
-3. plotting data
-4. presenting data
+1. reading in data -- dealing with .tsv files
+2. Understanding a dataframe as observations and features
+3. data types and coercing variables to proper format (text vs. categorical, etc.)
+4. formatting dates
+5. using the summary() function for information about variables and possible outliers (include use of hist here)
+6. NAs and the absence of data -- discuss possible methods to handle, but for our purposes delete rows/columns with NAs
+7. adding a column (feature engineering)
+8. pairplots to study correlation and spot potentially interesting relationships.
+9. plotting data
