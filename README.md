@@ -31,6 +31,7 @@ https://github.com/UVA-DSI/2019-bootcamp/blob/master/high-level-outline.md
 ### UVA Info
 * [uva wifi](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=3c2e1413db7acb804f32fb671d9619f4)
 * [infosheet](https://github.com/UVA-DSI/2019-bootcamp/blob/master/boot_camp_infosheet.pdf)
+* [UVA Open OnDemand](https://rivanna-portal.hpc.virginia.edu/pun/sys/dashboard/)
 ### Further Reading
 * [R vs. Python](https://github.com/matloff/R-vs.-Python-for-Data-Science)
 * [GitHub for DS](https://towardsdatascience.com/introduction-to-github-for-data-scientists-2cf8b9b25fba)
