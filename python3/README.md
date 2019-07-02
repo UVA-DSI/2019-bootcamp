@@ -34,7 +34,7 @@ Today we are working on python. However there is some knowledge of programming t
   * python2 vs python3
 
 # Pretest
-![](https://xkcd.com/353/)
+* https://xkcd.com/353/
 
 ## A brief history
 * Designed by [Guido van Rossum](https://www.google.com/search?q=google+image+search+guido+van+rossum&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjE_eGK6KHdAhXrRd8KHUzBDHsQ_AUICigB&biw=1440&bih=697)
@@ -122,7 +122,7 @@ https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/pandas-exercise.md
 * We can get here through the rivanna portal or anaconda. Today we do the portal. On your own time do the anaconda way.
 
 # PostTest
-![](https://xkcd.com/353/)
+* https://xkcd.com/353/
 
 # Homework
 ## Ways to Practice
