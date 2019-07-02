@@ -66,5 +66,8 @@ Today we are working on python. However there is some knowledge of programming t
 5. How to import (aka the most important part)
 
 # Project Jupyter
-* ![The Third Heat](https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/thirdheat.jpg)
+<center>
+![The Third Heat](https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/thirdheat.jpg)
+The third heat.
+</center>
 * projects/working directory/command line/essential toosl/c(...)/=/docs/indexing/data frames/plots/load data
