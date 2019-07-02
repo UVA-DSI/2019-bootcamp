@@ -91,7 +91,8 @@ The trick is that pandas data frames have a lot of capability and many features.
 * What a data fame "looks like"
     ![visualized](https://github.com/alonzi/pandas-intro/blob/master/andre.png) 
     
-
+### To the batcave!
+https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/pandas-exercise.md
 
 
 ## Other Resources
