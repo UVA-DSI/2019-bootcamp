@@ -65,6 +65,38 @@ Today we are working on python. However there is some knowledge of programming t
 4. Logic
 5. How to import (aka the most important part)
 
+# Import (aka the most important part)
+This is how you get code that other people have written. Without this ability no one would use python. We will use pandas as our example.
+
+## Getting Pandas
+Mothership: https://pandas.pydata.org/
+* conda install pandas
+* python3 -m pip install --upgrade pandas
+
+To confirm installation:
+* open python and type <pre>import pandas as pd</pre>
+
+## Let's talk about pandas data frames
+
+Definition of data frame:
+* "Two-dimensional size-mutable, potentially heterogeneous tabular data structure with labeled axes (rows and columns). Arithmetic operations align on both row and column labels. Can be thought of as a dict-like container for Series objects. The primary pandas data structure." [official documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
+
+### Often pandas data frames are confusing to new users. That is not the fault of the new user.
+
+The trick is that pandas data frames have a lot of capability and many features. But when learning you don't need that. So today we'll focus on the fundamnetals.
+
+* Working definition of Data Frame: 
+    <pre> An allocation of computer memory that holds data, formatted like a spreadsheet.</pre>
+* What a data fame "looks like"
+    ![visualized](https://github.com/alonzi/pandas-intro/blob/master/andre.png) 
+    
+
+
+
+## Other Resources
+* Python for Data Analysis by McKinney - [get from library](https://search.lib.virginia.edu/catalog/u7444998)
+* R for Data Science by Wickham & Grolemund - [free online](https://r4ds.had.co.nz/)
+
 # Project Jupyter
 ![The Third Heat](https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/thirdheat.jpg)
 
