@@ -66,6 +66,9 @@ Today we are working on python. However there is some knowledge of programming t
 4. Logic
 5. How to import (aka the most important part)
 
+### To the batcave!
+https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/python-exercise.md
+
 # Import (aka the most important part)
 This is how you get code that other people have written. Without this ability no one would use python. We will use pandas as our example.
 
