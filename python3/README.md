@@ -10,7 +10,7 @@
 # Let's do something!
 * logon to the rivanna portal: https://rivanna-portal.hpc.virginia.edu/pun/sys/dashboard/
 * type "python" then let's talk about what we see
-* type ```r python ```
+* type ``` python ```
 * what about python v 3
 * type "module load anaconda/5.2.0-py3.6"
 * type "python" then let's talk about what we see
