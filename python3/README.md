@@ -67,5 +67,7 @@ Today we are working on python. However there is some knowledge of programming t
 
 # Project Jupyter
 ![The Third Heat](https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/thirdheat.jpg)
-<center> The third heat. </center>
+The third heat.
+
+
 * projects/working directory/command line/essential toosl/c(...)/=/docs/indexing/data frames/plots/load data
