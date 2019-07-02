@@ -25,7 +25,8 @@
 ### A quick note
 Today we are working on python. However there is some knowledge of programming that is required. Don't worry if you don't know it, please ask questions. I will do my best to answer them. And I will also do my best to indicate when something is a python specific detail and when it is a programming in general item.
 
-## Getting Python "Anaconda" (this will take some time)
+## Let's do something!
+**Getting Python "Anaconda" (this will take some time)**
 * [Windows](https://www.anaconda.com/download/#windows)
 * [Mac](https://www.anaconda.com/download/#macos)
 * terminology time
@@ -66,6 +67,7 @@ Today we are working on python. However there is some knowledge of programming t
 4. Logic
 5. How to import (aka the most important part)
 
+## Let's do something!
 ### To the batcave!
 https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/python-exercise.md
 
@@ -96,7 +98,8 @@ The trick is that pandas data frames have a lot of capability and many features.
     <pre> An allocation of computer memory that holds data, formatted like a spreadsheet.</pre>
 * What a data fame "looks like"
     ![visualized](https://github.com/alonzi/pandas-intro/blob/master/andre.png) 
-    
+
+## Let's do something!
 ### To the batcave!
 https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/pandas-exercise.md
 
