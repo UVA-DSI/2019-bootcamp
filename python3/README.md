@@ -79,3 +79,13 @@ Today we are working on python. However there is some knowledge of programming t
 ## Ways to Practice
 1. Write some code (a game is often a good exercise, like tic tac toe)
 2. Ask a friend to review it
+
+* Beginning
+  * Flip a coin (~10 lines)
+  * Play rock, paper, scissors  (~25 lines)
+* Intermediate
+  * Guess a secret number between 1 and 10. With hints. (~20 lines)
+  * Dice rolling program
+* Expert
+  * Play blackjack
+  * Play roulette
