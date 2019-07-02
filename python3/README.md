@@ -69,6 +69,9 @@ Today we are working on python. However there is some knowledge of programming t
 ### To the batcave!
 https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/python-exercise.md
 
+# Break Break Break Break
+* Pete will announce what time we resume.
+
 # Import (aka the most important part)
 This is how you get code that other people have written. Without this ability no one would use python. We will use pandas as our example.
 
@@ -102,15 +105,15 @@ https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/pandas-exercise.md
 * Python for Data Analysis by McKinney - [get from library](https://search.lib.virginia.edu/catalog/u7444998)
 * R for Data Science by Wickham & Grolemund - [free online](https://r4ds.had.co.nz/)
 
+# Break Break Break Break
+* Pete will announce what time we resume.
+
 # Project Jupyter
 ![The Third Heat](https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/thirdheat.jpg)
 
 *The third heat.*
 
-
-* projects/working directory/command line/essential toosl/c(...)/=/docs/indexing/data frames/plots/load data
-
-
+* We can get here through the rivanna portal or anaconda. Today we do the portal. On your own time do the anaconda way.
 
 # Homework
 ## Ways to Practice
