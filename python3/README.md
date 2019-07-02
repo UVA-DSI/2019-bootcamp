@@ -35,6 +35,7 @@ Today we are working on python. However there is some knowledge of programming t
 
 # Pretest
 * https://xkcd.com/353/
+* https://xkcd.com/1987/
 
 ## A brief history
 * Designed by [Guido van Rossum](https://www.google.com/search?q=google+image+search+guido+van+rossum&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjE_eGK6KHdAhXrRd8KHUzBDHsQ_AUICigB&biw=1440&bih=697)
@@ -122,7 +123,8 @@ https://github.com/UVA-DSI/2019-bootcamp/blob/master/python3/pandas-exercise.md
 * We can get here through the rivanna portal or anaconda. Today we do the portal. On your own time do the anaconda way.
 
 # PostTest
-* https://xkcd.com/353/
+* https://xkcd.com/353/, https://www.explainxkcd.com/wiki/index.php/353:_Python
+* https://xkcd.com/1987/, https://www.explainxkcd.com/wiki/index.php/1987:_Python_Environment
 
 # Homework
 ## Ways to Practice
