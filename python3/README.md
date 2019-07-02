@@ -60,7 +60,7 @@ Today we are working on python. However there is some knowledge of programming t
 * hotkeys
 * [project details](https://docs.spyder-ide.org/projects.html)
 
-## Outline
+## Outline (aka eating vegetables)
 1. Strings and Functions
 2. Data types
 3. Loops
