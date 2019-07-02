@@ -4,7 +4,7 @@
 * Pete Alonzi
 * PhD, physics
 * Staff Data Scientist for the Data Science Institute
-* From Chicago
+* From Chicago (Wilmette if you're from Chicago)
 * Selected hobbies: Sports, gaming, music
 
 ## Let's do something!
