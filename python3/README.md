@@ -12,8 +12,8 @@
 * type "python" then let's talk about what we see
 * type ``` python ```
 * what about python v 3
-* type "module load anaconda/5.2.0-py3.6"
-* type "python" then let's talk about what we see
+* type ``` module load anaconda/5.2.0-py3.6 ```
+* type ``` python ``` then let's talk about what we see
 
 # Goals for Today
 1. Get python running (3 ways)
