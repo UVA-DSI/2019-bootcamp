@@ -72,3 +72,10 @@ Today we are working on python. However there is some knowledge of programming t
 
 
 * projects/working directory/command line/essential toosl/c(...)/=/docs/indexing/data frames/plots/load data
+
+
+
+# Homework
+## Ways to Practice
+1. Write some code (a game is often a good exercise, like tic tac toe)
+2. Ask a friend to review it
